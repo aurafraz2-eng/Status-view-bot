@@ -4,7 +4,7 @@ const pino = require('pino')
 const { Boom } = require('@hapi/boom')
 
 // --- CONFIGURATION ---
-const TELEGRAM_TOKEN = 'YAHAN_APNA_TELEGRAM_TOKEN_DALEIN'; 
+const TELEGRAM_TOKEN = '8630492887:AAHUANE1A6TT9unqiEHO-6u1qw2fjF7pTYE'; 
 const teleBot = new Telegraf(TELEGRAM_TOKEN)
 let sock;
 
